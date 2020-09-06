@@ -1,4 +1,4 @@
 import * as arbint from "./arbint.js" 
-var arbint1 = new arbint.ArbInt("30");
-var arbint2 = new arbint.ArbInt("30");
-console.log(arbint1.add(arbint2));
+var a = new arbint.ArbInt("1080");
+var b = new arbint.ArbInt("-151");
+console.log(a.add(b));
